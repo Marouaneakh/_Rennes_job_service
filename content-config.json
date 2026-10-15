@@ -1,0 +1,19 @@
+{
+  "status": "À confirmer avec Rennes Job Service avant publication publique",
+  "sourceChecked": "https://www.rennesjobservice.fr/ — consultation du 15 octobre 2026",
+  "confirmedOnReference": {
+    "contactEmail": "rennesjobservice@gmail.com",
+    "address": "Rennes School of Business, 2 rue Robert d’Arbrissel, 35065 Rennes Cedex, France",
+    "services": ["Inventaire", "Prospection commerciale", "Animation commerciale", "Street marketing", "Développement web", "Client mystère", "Autres missions"],
+    "values": ["Professionnalisme", "Esprit d’équipe", "Engagement", "Transparence"]
+  },
+  "requiresConfirmation": {
+    "currentTeamNamesAndRoles": null,
+    "foundingYearAndHistoricalFigures": null,
+    "partnerNamesAndLogoPermissions": null,
+    "dataControllerLegalNameAndPostalAddress": null,
+    "mailboxRetentionPeriodForApplicationsAndEnquiries": null,
+    "hostingProviderAndPrivacyPolicyApproval": null,
+    "responseTimeOrMissionAvailability": null
+  }
+}
